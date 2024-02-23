@@ -4,4 +4,5 @@
 
 Basic idea: Hey, i have this awesome ESP32, which is able to read touch sensors and it has WiFi onboard. Lets create a CW keyer!
 The keyer supports the lambic b mode, configuration via web GUI and text to morse code.
-The C code should compile in the Arduino development environment.
+
+<img src="hardware.png" alt="Paddle hardware" width="400">
